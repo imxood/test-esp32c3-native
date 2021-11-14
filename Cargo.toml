@@ -16,7 +16,7 @@ opt-level = "z"
 # native = ["esp-idf-sys/native"]
 
 [dependencies]
-esp-idf-sys = { version = "0.24.6", features = ["binstart", "std", "native"], default-feature = false }
+esp-idf-sys = { version = "0.24.6", features = ["binstart", "std", "native"], default-features = false }
 
 
 [build-dependencies]
