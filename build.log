@@ -1,4 +1,4 @@
-
+maxu@maxu-pc:/develop/sources/test-esp32c3$ cargo build -vvv
 warning: unused config key `unstable.extra-link-arg` in `/develop/sources/test-esp32c3/.cargo/config.toml`
 warning: unused config key `unstable.configurable-env` in `/develop/sources/test-esp32c3/.cargo/config.toml`
    Compiling compiler_builtins v0.1.49
